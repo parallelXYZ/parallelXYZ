@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Liam!
 - 👀 I’m interested in Game/Software Design especially, but pretty much everything Comp Sci related!
-- 🌱 I’m currently learning RISC-V Assembly, Machine Learning Methods, SQL, MongoDB, Data Cleaning/Visualization
+- 🌱 I’m currently learning C#, Machine Learning Methods, Android Studio, Data Cleaning/Visualization
 - 💞️ I’m looking to collaborate on Data Analysis/Software/Game Design Projects
 - 📫 How to reach me liamparrell1@outlook.com | https://www.linkedin.com/in/liam-parrell-76580134a/
 - 😄 Pronouns: He/Him
@@ -13,9 +13,13 @@ PROJECTS DONE (SCHOOL/PERSONAL)
 - Fractal Visualizers in C and Assembly
 - A* Path Finder in Assembly
 
+PROJECTS IN THE WORKS
+- Social Media themed top-down Shoot Em Up in Unity
+- Lottery-based event sign up application in Android Studio
+
 PROJECTS PLANNED
 - Data Analyzation/Prediction Application using Machine Learning
-- Unity/Unreal game
+- other Unity/Unreal games
 <!---
 parallelXYZ/parallelXYZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
