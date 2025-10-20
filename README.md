@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @parallelXYZ
+- 👋 Hi, I’m Liam!
 - 👀 I’m interested in Game/Software Design especially, but pretty much everything Comp Sci related!
 - 🌱 I’m currently learning RISC-V Assembly, Machine Learning Methods, SQL, MongoDB, Data Cleaning/Visualization
 - 💞️ I’m looking to collaborate on Data Analysis/Software/Game Design Projects
