@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Liam!
-- 👀 I’m interested in Game/Software Design especially, but pretty much everything Comp Sci related!
-- 🌱 I’m currently learning C#, Machine Learning Methods, Android Studio, Data Cleaning/Visualization
+Hi, I’m Liam!
+- 👀 I’m interested in Game/Software Development specifically, but pretty much everything Comp Sci related!
+- 🌱 I’m currently learning C#, Machine Learning Methods, Android Studio, and Data Cleaning/Visualization
 - 💞️ I’m looking to collaborate on Data Analysis/Software/Game Design Projects
 - 📫 How to reach me: [liamparrell1@outlook.com](mailto:liamparrell1@outlook.com) | [LinkedIn](https://www.linkedin.com/in/liam-parrell-76580134a/)
 - 😄 Pronouns: He/Him
