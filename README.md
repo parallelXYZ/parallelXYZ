@@ -16,10 +16,10 @@
 
 ## PROJECTS IN THE WORKS
 ### Social Media themed top-down Shoot Em Up in Unity
-![Alt text](images/socialspiral2.png)
-![Alt text](images/socialspiral3.png)
-![Alt text](images/socialspiral5.png)
-- Lottery-based event sign up application in Android Studio
+![Alt text](images/socialspiral2)
+![Alt text](images/socialspiral3)
+![Alt text](images/socialspiral5)
+### Lottery-based event sign up application in Android Studio
 
 ## PROJECTS PLANNED
 - Data Analyzation/Prediction Application using Machine Learning
