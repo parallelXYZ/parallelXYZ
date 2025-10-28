@@ -1,4 +1,4 @@
-Hi, I’m Liam!
+# Hi, I’m Liam!
 
 📫 How to reach me: [liamparrell1@outlook.com](mailto:liamparrell1@outlook.com) | [LinkedIn](https://www.linkedin.com/in/liam-parrell-76580134a/)
 - 👀 I’m interested in Game/Software Development specifically, but pretty much everything Comp Sci related!
@@ -7,18 +7,21 @@ Hi, I’m Liam!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm big into sports and actively play soccer!
 
-PROJECTS DONE (SCHOOL/PERSONAL)
+## PROJECTS DONE (SCHOOL/PERSONAL)
 - Standard C basic 3D Renderer
 - Basic Social Media Application using Python/SQL
 - Dungeon Crawler games in Python and Assembly
 - Fractal Visualizers in C and Assembly
 - A* Path Finder in Assembly
 
-PROJECTS IN THE WORKS
-- Social Media themed top-down Shoot Em Up in Unity
+## PROJECTS IN THE WORKS
+### Social Media themed top-down Shoot Em Up in Unity
+![Alt text](images/socialspiral2.png)
+![Alt text](images/socialspiral3.png)
+![Alt text](images/socialspiral5.png)
 - Lottery-based event sign up application in Android Studio
 
-PROJECTS PLANNED
+## PROJECTS PLANNED
 - Data Analyzation/Prediction Application using Machine Learning
 - other Unity/Unreal games
 <!---
