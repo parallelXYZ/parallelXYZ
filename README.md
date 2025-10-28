@@ -1,6 +1,8 @@
 # Hi, I’m Liam!
 
-📫 How to reach me: [liamparrell1@outlook.com](mailto:liamparrell1@outlook.com) | [LinkedIn](https://www.linkedin.com/in/liam-parrell-76580134a/)
+📫 How to reach me: [liamparrell1@outlook.com](mailto:liamparrell1@outlook.com) | [LinkedIn](https://www.linkedin.com/in/liam-parrell-76580134a/)  
+
+A third-year BSc Computing Science student at the University of Alberta with over 4 years of experience. Possesses excellent problem solving, time management, and teamwork skills as well as proficiency in a variety of programming languages acquired through valuable work and volunteer positions. Seeking a collaborative development environment to enhance vital workplace skills and make an impact.
 - 👀 I’m interested in Game/Software Development specifically, but pretty much everything Comp Sci related!
 - 🌱 I’m currently learning C#, Machine Learning Methods, Android Studio, and Data Cleaning/Visualization
 - 💞️ I’m looking to collaborate on Data Analysis/Software/Game Design Projects
