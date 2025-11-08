@@ -17,11 +17,15 @@ A third-year BSc Computing Science student at the University of Alberta with ove
 - A* Path Finder in Assembly
 
 ## PROJECTS IN THE WORKS
-### Social Media themed top-down Shoot Em Up in Unity
+### Social Media themed top-down Shoot Em Up in Unity: Social Spiral
 ![Alt text](images/socialspiral2)
 ![Alt text](images/socialspiral3)
 ![Alt text](images/socialspiral5)
-### Lottery-based event sign up application in Android Studio
+### Lottery-based event sign up application in Android Studio: Jackpot
+![Alt text](images/Jackpot1)
+![Alt text](images/Jackpot2)
+![Alt text](images/Jackpot3)
+![Alt text](images/Jackpot4)
 
 ## PROJECTS PLANNED
 - Data Analyzation/Prediction Application using Machine Learning
